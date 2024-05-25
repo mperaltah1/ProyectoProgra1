@@ -1,0 +1,20 @@
+{
+  "estudiantes": [
+    {
+      "carne" : 2209345890101,
+      "nombre": "Jose",
+      "apellido": "Perez"
+    },
+    {
+      "carne" : 3901478370101,
+      "nombre": "Juan",
+      "apellido": "Arreaga"
+    },
+    {
+      "carne" : 2209345890101,
+      "nombre": "Jose",
+      "apellido": "Perez"
+    }
+
+  ]
+}
